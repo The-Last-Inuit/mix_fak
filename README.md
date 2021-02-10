@@ -22,7 +22,7 @@ Add `mix_fak` as a development dependency in your `mix.exs`:
 defp deps do
   [
     ...,
-    {:mix_fak, "~> 1.0", only: [:dev]},
+    {:mix_fak, "~> 1.0.0", only: [:dev]},
   ]
 end
 ```
