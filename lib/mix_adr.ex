@@ -1,4 +1,4 @@
-defmodule MixAdr do
+defmodule Mix.Tasks.Adr do
   use Mix.Task
 
   @moduledoc """
